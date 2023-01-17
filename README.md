@@ -1,5 +1,7 @@
-## Hi There
+# Hi There
 ![Hi There](https://github.com/One80io/One80io/blob/main/1500x500.jpg?raw=true)
+
+![Profile views](https://gpvc.arturio.dev/One80io)  
 
 One80 will provide trusted, safe, secure and fast crypto currency services to people no matter where they are in the world, we will create DeFi solutions for real world use.
 
@@ -15,8 +17,7 @@ One80 helps you make the most of of your crypto currency, we have exciting plans
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=One80io&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=One80io)  
 
 ![GitHub metrics](https://metrics.lecoq.io/One80io)  
 
-![Profile views](https://gpvc.arturio.dev/One80io)  
+
